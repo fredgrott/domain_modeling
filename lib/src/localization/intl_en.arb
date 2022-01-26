@@ -1,0 +1,6 @@
+{
+  "appTitle": "domain_modeling",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
