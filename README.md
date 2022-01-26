@@ -7,6 +7,8 @@ Domain Modeling shows how the abstractions of the domain layer should be impleme
 
 ## The Medium Article
 
+[Better Domain Modeling With Dartz And Equatable](https://fredgrott.medium.com/better-domain-modeling-with-dartz-and-equatable-d3fd1948c814?sk=e3e337162bcff2b110273f4b8c8979c7)
+
 
 
 And you should sign up for my Email newsletter at my medium blog:
