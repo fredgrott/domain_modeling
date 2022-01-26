@@ -1,3 +1,5 @@
+![domain modeling](./media/domain-modelingpng)
+
 # domain_modeling
 
 Domain Modeling shows how the abstractions of the domain layer should be implemented including using Equatable and Dartz along with custom exceptions.
